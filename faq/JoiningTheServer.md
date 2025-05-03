@@ -1,6 +1,6 @@
 # Joining Origins Rebirth
 
-Follow these steps to join us:
+Follow these steps to join us: test
 
 ---
 
