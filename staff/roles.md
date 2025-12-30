@@ -8,7 +8,7 @@
 
 - Origins Game Moderator (OGM) & KoA Game Moderator (GM)
 
-  - Primarily moderation and enforcing rules.
+  - Primarily: Moderation and enforcing rules.
 
   - Secondary: Answering questions from players and resolving player issues.
 
@@ -16,15 +16,13 @@
 
 - Builder - Build/edit structures for game servers.
 
-- JrMod - Moderator in training. Temp/intro GM rank.
+- Helper - Answer questions players and know when to escalate issues.
 
-  - Primarily answering questions from players and resolving player issues.
+  - Primarily: Answering questions from players via in-game & support tickets, escalate to admin team if needed.
 
-  - Secondary: Moderation and enforcing rules.
+  - Secondary: Light rule enforcement by muting offenders, escalate to mod team for serious offences.
 
-  - Has very similar permissions to Moderator, see [Staff Commands](https://wiki.originsrebirth.com/docs/staff/commands). May also spectate players to check for cheats/xray.
-
-  - JrMod should expect to be promoted to Moderator after 1 or 2 months.
+  - Similar permissions to Moderator, see [Staff Commands](https://wiki.originsrebirth.com/docs/staff/commands). May also spectate players to check for cheats/xray.
 
 - Ranks typically have perms of lesser ranks and can do their roles but it is not expected.
 
