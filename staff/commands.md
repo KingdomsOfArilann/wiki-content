@@ -6,6 +6,20 @@
 
 ### Commands for Mods and higher
 
+- /ban &lt;username&gt; \[reason\]
+
+  - This will disconnect someone and prevent their access to the server permanently, someone can always be unbanned at a later date or the ban length be adjusted. Reason is optional, but highly recommended to make it easier in the future for staff to look back on why someone was punished.
+
+  - If a rule was broken, use `/punish`. If something isn't specified in the punish GUI, please specify a detailed reason., someone can always be unbanned at a later date or the ban length be adjusted. Reason is optional, but highly recommended to make it easier in the future for staff to look back on why someone was punished.
+
+  - If a rule was broken, use `/punish`. If something isn't specified in the punish GUI, please specify a detailed reason.
+
+- /tempban &lt;username&gt; &lt;length&gt; \[reason\]
+
+  - This will disconnect someone and prevent their access to the server for the specified length (e.g `3h` for 3 hours or `7d` for 7 days), someone can always be unbanned at a later date or the ban length adjusted. Reason is optional, but highly recommended to make it easier in the future for staff to look back on why someone was punished.
+
+  - If a rule was broken, use `/punish`. If something isn't specified in the punish GUI, please specify a detailed reason.
+
 - /gamemode 
 
   - (Required) `creative`, `survival`, or `spectator`
@@ -33,6 +47,14 @@
   - (Required) Specifying `time:<time>` (e.g `1h` for 1 hour or `10m` for 10 minutes, to restore the specified radius the amount of time specified. - This should be a time before the roll back occurred)
 
   - (Recommended) Specifying `user:<username>` to only restore this persons actions prior to them being rolled back.
+ 
+- [/co rollback](https://docs.coreprotect.net/commands/#co-rollback)
+
+  - (Required) Specifying `radius:<radius>` (e.g `20` for 20 blocks around you or `#global` for the whole server.)
+
+  - (Required) Specifying `time:<time>` (e.g `1h` for 1 hour or `10m` for 10 minutes, to roll back the specified radius the amount of time specified.)
+
+  - (Recommended) Specifying `user:<username>` to only roll back this persons actions.
 
 WorldEdit and Spawn Building Privileges can be requested from an Op
 
@@ -47,14 +69,6 @@ WorldEdit and Spawn Building Privileges can be requested from an Op
   - Enabled and disabled by running the same command again.
 
   - Used for when you want to find out who broke, placed a block or added/removed items from a chest.
-
-- [/co rollback](https://docs.coreprotect.net/commands/#co-rollback)
-
-  - (Required) Specifying `radius:<radius>` (e.g `20` for 20 blocks around you or `#global` for the whole server.)
-
-  - (Required) Specifying `time:<time>` (e.g `1h` for 1 hour or `10m` for 10 minutes, to roll back the specified radius the amount of time specified.)
-
-  - (Recommended) Specifying `user:<username>` to only roll back this persons actions.
 
 - [/co lookup](https://docs.coreprotect.net/commands/#co-lookup)
 
@@ -76,19 +90,15 @@ WorldEdit and Spawn Building Privileges can be requested from an Op
 
 **Punishments plugin:**
 
-- /ban &lt;username&gt; \[reason\]
+- /punish &lt;username&gt;
 
-  - This will disconnect someone and prevent their access to the server permanently, someone can always be unbanned at a later date or the ban length be adjusted. Reason is optional, but highly recommended to make it easier in the future for staff to look back on why someone was punished.
+  - Shows a GUI, with predefined reasons & lengths. That align with the servers rules & punishment guidelines.
 
-  - If a rule was broken, use `/punish`. If something isn't specified in the punish GUI, please specify a detailed reason., someone can always be unbanned at a later date or the ban length be adjusted. Reason is optional, but highly recommended to make it easier in the future for staff to look back on why someone was punished.
+  - It remembers how many punishments have occurred previously, so a higher level of punishment can be handed out in future. 
 
-  - If a rule was broken, use `/punish`. If something isn't specified in the punish GUI, please specify a detailed reason.
+  - Hover over the glass panes to show specific punishments, clicking on them will hand out that punishment to the specified person.
 
-- /tempban &lt;username&gt; &lt;length&gt; \[reason\]
-
-  - This will disconnect someone and prevent their access to the server for the specified length (e.g `3h` for 3 hours or `7d` for 7 days), someone can always be unbanned at a later date or the ban length adjusted. Reason is optional, but highly recommended to make it easier in the future for staff to look back on why someone was punished.
-
-  - If a rule was broken, use `/punish`. If something isn't specified in the punish GUI, please specify a detailed reason.
+  - At the moment, it is not recommended to rollback a permanently banned person, in case they submit an appeal. It is suggested you wait a week to see if they submit an appeal or their ban length is adjusted, if they do not you should rollback their actions 60 days using CoreProtect.
 
 - /kick &lt;username&gt; \[reason\]
 
@@ -113,16 +123,6 @@ WorldEdit and Spawn Building Privileges can be requested from an Op
   - Shows a GUI of the most recent punishments.
 
   - (Optional) Specifying `username` will show that persons most recent punishments.
-
-- /punish &lt;username&gt;
-
-  - Shows a GUI, with predefined reasons & lengths. That align with the servers rules & punishment guidelines.
-
-  - It remembers how many punishments have occurred previously, so a higher level of punishment can be handed out in future. 
-
-  - Hover over the glass panes to show specific punishments, clicking on them will hand out that punishment to the specified person.
-
-  - At the moment, it is not recommended to rollback a permanently banned person, in case they submit an appeal. It is suggested you wait a week to see if they submit an appeal or their ban length is adjusted, if they do not you should rollback their actions 60 days using CoreProtect.
 
 - /spectate or /spec &lt;username&gt;
 
