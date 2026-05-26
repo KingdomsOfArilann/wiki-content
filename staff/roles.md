@@ -1,18 +1,18 @@
 # Staff Role Details
 
 - Operators (Ops) - Full-stack, manage/dev all areas.
-- System Admin (SA)  - Manage all servers (KoA &amp; Origins Rebirth).
+- System Admin (SA)  - Manage all servers (KoA & Origins Rebirth).
 - Game Admin (GA) - Manage game servers.
-- Origins Game Moderator (OGM) &amp; KoA Game Moderator (GM)
+- Origins Game Moderator (OGM) & KoA Game Moderator (GM)
   - Primarily: Moderation and enforcing rules.
   - Secondary: Answering questions from players and resolving player issues.
 - Dev - Server plugin/bot development.
 - Builder - Build/edit structures for game servers.
 - Helper - Answer questions players and know when to escalate issues.
-  - Primarily: Answering questions from players via in-game &amp; support tickets, escalate to admin team if needed.
+  - Primarily: Answering questions from players via in-game & support tickets, escalate to admin team if needed.
   - Secondary: Light rule enforcement by muting offenders, escalate to mod team for serious offences.
   - Similar permissions to Moderator, see [Staff Commands](https://wiki.originsrebirth.com/docs/staff/commands). May also spectate players to check for cheats/xray.
 - Ranks typically have perms of lesser ranks and can do their roles but it is not expected.
-- Founding members (Intravenous, FlynCodes, MrPiThon, &amp; Taah) are full-stack developers and take on all roles.
+- Founding members (Intravenous, FlynCodes, MrPiThon, & Taah) are full-stack developers and take on all roles.
 
 Staff must be 16+ years of age or older, the position of staff is a volunteer position and staff can be removed or banned for violating any rules, remember it is a privilege and we trust you with that privilege.

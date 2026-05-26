@@ -1,4 +1,4 @@
-# Shops &amp; Markets Guide
+# Shops & Markets Guide
 
 Learn how to create, manage, and use markets and shops on Origins Rebirth.
 
@@ -28,14 +28,14 @@ Craft a Shop using the recipe shown in-game or on the wiki (requires specific ma
 - **Buy a Shop**: `/shop buy`
 - **Remove your Shop**: `/shop remove`
 
-### Setup &amp; Basics
+### Setup & Basics
 
 1. **Place a Shop**: Right-click the ground while holding a Shop.
 2. **Remove an Empty Shop**: Shift + Right-click.
 3. **Edit a Shop**: Shift + Left-click the Shop.
 4. **Insert an Item**: Left-click top-left Item slot while holding the item.
 
-### Usage &amp; Pricing
+### Usage & Pricing
 
 - **Set Sell Price** (sell to players):  
 Left-click the **green plus icon** and adjust the price.
