@@ -7,29 +7,29 @@ Follow these steps to join us:
 ## **Java Edition (Windows, Mac)**
 
 1. **Launch Minecraft**  
- Open the Minecraft Launcher and ensure you are signed in with your Mojang or Microsoft account.
+Open the Minecraft Launcher and ensure you are signed in with your Mojang or Microsoft account.
 2. **Switch to Correct Version**  
- In the launcher, ensure you've selected the appropriate game version:
+In the launcher, ensure you've selected the appropriate game version:
   - Click **Installations** &gt; **New Installation**.
   - Select the vanilla Minecraft version the server uses.
   - Save and launch the game from this profile.
 3. **Click Multiplayer**  
- On the main menu, click **Multiplayer**.
+On the main menu, click **Multiplayer**.
 4. **Add Server**  
- Click **Add Server** and enter:
+Click **Add Server** and enter:
   - **Server Name**: *Choose a name, e.g., "Origins Rebirth"*
   - **Server Address**: `mc.originsrebirth.com`
 5. **Save and Connect**  
- Click **Done**, select the server, and press **Join Server**.
+Click **Done**, select the server, and press **Join Server**.
 6. **Enjoy the Game**  
- Once connected, explore the beautiful Terralith world!
+Once connected, explore the beautiful Terralith world!
 
 ---
 
 ## **Bedrock Edition** (Windows 10/11, Mobile)
 
 1. **Launch Minecraft Bedrock**  
- Open Minecraft on your device and ensure you’re signed in with your Microsoft account.
+Open Minecraft on your device and ensure you’re signed in with your Microsoft account.
 2. **Access the Servers Tab**
   - **Windows 10/11, iOS, Android**: Go to **Play** &gt; **Servers**.
   - **Consoles (Xbox/PlayStation/Switch)**: The "Servers" tab may require DNS adjustments (see note below).
@@ -40,9 +40,9 @@ Follow these steps to join us:
     - **Server Address**: `mc.originsrebirth.com`
     - **Port**: `19132`
 4. **Save and Connect**  
- Save the server, select it from the list, and click **Join Server**.
+Save the server, select it from the list, and click **Join Server**.
 5. **Enjoy the Game**  
- Once loaded, start playing!
+Once loaded, start playing!
 
 ---
 

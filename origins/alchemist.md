@@ -51,7 +51,7 @@ Spider Eye - All effects are positive but major reduction in duration
 
 Arcane Shield  
 Can generate a shield to absorb damage at the cost of expierence  
-Passive: Romeo & Juliet
+Passive: Romeo &amp; Juliet
 Villagers will not trade with you but pillagers still attack you  
 Passive: Alchemical Elixir  
 You can throw potions much farther  
